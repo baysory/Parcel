@@ -1,6 +1,6 @@
 AOS.init(); 
 
-const dataEvento =new Date('dec 12, 2012 19:00:00');
+const dataEvento =new Date('dec 12, 2112 19:00:00');
 const timeStampEvento = dataEvento.getTime();
 
 const contaDias = setInterval(function() {
